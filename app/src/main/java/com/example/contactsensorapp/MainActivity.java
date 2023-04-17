@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 case 0:
 
 
-                    text1.setText(peopleList.get(i) + "\t\t\t\t\t\t" + phoneMsgFmt.format(phoneNumArr));
+                    text1.setText(peopleList.get(i) + "\t\t\t\t\t\t " + phoneMsgFmt.format(phoneNumArr));
 
                     break;
                 case 1:
